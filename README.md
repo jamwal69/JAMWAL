@@ -1,7 +1,7 @@
 [![MasterHead]https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif
 <h1 align="center">Hi 👋, I'm MANAV JAMWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamwal69&label=Profile%20views&color=0e75b6&style=flat" alt="jamwal69" /> </p>
 
